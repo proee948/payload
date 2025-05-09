@@ -1,2 +1,1 @@
-# payload
-Goal of this project is to create a payload then deliver it to target's computer via BADUSB (in my case im using ATmega32u4 chip AKA arduino leonardo). payload itself is yet to be fully completed and will be updated and changed frequently, however assume any  files other than README in this repo are keyloggers or  some other malware so tread carefully!... 
+
